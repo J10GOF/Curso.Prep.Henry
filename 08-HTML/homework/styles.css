@@ -10,6 +10,8 @@ img{
     background-color: rgb(224, 187, 187);
     padding: 50px;
     border: 10px solid cyan ;
+    max-width: 600px;
+    margin: 0 auto; 
 }
 #spanId{
     font-size: 18px;
@@ -21,4 +23,25 @@ img{
     background-color: blanchedalmond;
     padding: 10px;   
     border: 10px solid burlywood;
+    /* Centrar div */
+    max-width: 600px;
+    margin: 0 auto; 
 }
+body { /* Propiedades del body */
+    /* Propiedades para la imagen de fondo */
+    height: 400px;
+    background-image: url("https://i.pinimg.com/736x/a7/d9/ff/a7d9ffdf980769457263f58b2826d7a5.jpg"); /* Imagen de fondo */
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+    text-align: center;
+    
+  }
+  .flex-container{ /* Propiedades del flexbox */
+      display: flex;
+      flex-direction: column;
+      background-color: aquamarine;
+      padding: 5px;
+      border: 2px solid black;
+  }
+  
