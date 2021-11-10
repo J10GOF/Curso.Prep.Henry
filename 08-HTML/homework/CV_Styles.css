@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(214, 241, 241);
+}
+.Inicio{
+    width: 100%;
+    height: 300px;
+    background-color: cadetblue;
+    transform: skewY(-4deg);
+}
+
+.Inicio .Info{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+
+#Nombre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    transform: skewY(4deg);
+    margin-bottom: 0;
+}
+#Educacion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    transform: skewY(4deg);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#Edad{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    transform: skewY(4deg);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.Div-principal{
+    width: 90%;
+    height: auto;
+    background-color: cadetblue;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.Div-principal .TituloSeccion{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white dashed;
+
+}
+
+.Div-principal .Titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(255, 241, 183);
+    display: inline;
+    margin-right: 20px;
+}
+.Div-principal .Subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+
+}
+
+.Inicio .foto{
+    transform: skewY(4deg);
+    position: absolute;
+    top: 18%;
+    right: 5%;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.Inicio .foto img{
+    width: 200px;
+    right: 200px;
+}
+.Div-principal .Descripción{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: large;
+}
+
+#lista{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: large;
+
+}
