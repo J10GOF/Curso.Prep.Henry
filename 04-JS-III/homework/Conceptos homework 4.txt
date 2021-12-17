@@ -1,0 +1,5 @@
+Array o vectores.
+Un array, es un conjunto de variables. Es como una lista de variables.
+Basicamente es una zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, 
+los elementos de la matriz.
+Desde el punto de vista lógico una matriz se puede ver como un conjunto de elementos ordenados en fila.

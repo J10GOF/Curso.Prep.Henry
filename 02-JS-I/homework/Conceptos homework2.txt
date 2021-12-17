@@ -1,0 +1,39 @@
+Variables
+Una variable es un espacio reservado en memoria, definido por un tipo de dato y un nombre asignado, 
+en el cual se puede guardar un valor y se puede modificar.
+existen diferenntes tipos de Variables como:
+
+Numéricos: int (números enteros), float (números decimales).
+
+Caracteres: char, cadena de Caracteres.
+
+Booleanos: bool (True or false) cuyo valores son verdadero o falso.
+
+String : cadena de Caracteres.
+
+___________________________________________________________________________________________________________________
+
+Funciones.
+Una función no es más que un conjunto de líneas de código que hacen una tarea en concreto, 
+y esta función puede retornar un valor O no.
+
+Las funciones tienen la posibilidad de tener parámetros o argumentos, que son variables que modifican
+su comportamiento.
+
+Gracias a la funciones podemos segmentar el código en diferentes partes, haciéndolo de este modo más sencillo.
+
+___________________________________________________________________________________________________________________
+
+Parametros y argumentos.
+Los argumentos o parámetros son los medios por los cuales podemos extender las variables locales 
+de funciones, a otras funciones, y también nos permiten establecer una conexión entre funciones.
+
+declaraciones.
+Hace que la función sea conocida por el compilador, de modo que las llamadas a ella se puedan realizar 
+en el momento de la declaración.
+
+Condicionales.
+Un condicional es una instrucción o conjunto de comandos que pueden o no ejecutarse dependiendo del valor 
+de la condición.
+Los tipos más conocidos de sentencias condicionales son:
+el SI..ENTONCES (if..then), el SI..ENTONCES..SI NO (if..then..else) y el SEGÚN (case o switch)

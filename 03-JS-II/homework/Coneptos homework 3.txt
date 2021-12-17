@@ -1,0 +1,18 @@
+Ciclo FOR
+
+El Ciclo FOR o bucle FOR permite repetir varias instrucciones (pasos).
+un cierto número de veces (digamos 10 veces).
+Se emplea en el recorrido de vectores, matrices y estructuras, entre otros.
+
+----------------------------------------------------------------------------------------------------------------
+
+Operadores Logicos
+
+Los operadores lógicos permiten agrupar expresiones lógicas. 
+Las expresiones lógicas son todas aquellas expresiones que obtienen como resultado verdadero o falso. 
+Los operadores lógicos son operadores que actúan como asociaciones entre este tipo de expresiones.
+Los operadores Logicos mas usados son:
+
+&&: que corresponde al booleano AND, lo que en español vendría siendo “y”.
+||: que corresponde al booleano OR, lo que sería equivalente a “o”.
+! : Que corresponde a negacion o diferencia.

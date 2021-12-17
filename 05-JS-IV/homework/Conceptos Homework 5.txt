@@ -1,0 +1,25 @@
+Objeto.
+
+Un objeto es una unidad en un programa de computadora que tiene un estado y un comportamiento. 
+Es decir, tiene un conjunto de datos almacenados y las tareas que realiza con esos datos en tiempo de ejecución.
+
+En otras palabras mas secillas un objeto es una especie de modelo con el que representamos una cosa o un concepto 
+de la vida real.
+Un objeto se rige por propiedades y metodos 
+
+Propiedades de un objeto.
+
+Las prpiedades de un objeto son variables asociadas a el y estas variables teambien se les puede llamar atributos.
+Las propiedades o atrivitos son carateristicas propias de un objeto.
+
+Metodos de un objeto.
+
+Ademas de propiedades, a los objetos podemos definirle una serie de métodos que son instrucciones 
+que pueden cambiar los valores que hemos asignado a esas propiedades.
+
+-------------------------------------------------------------------------------------------------------------------
+
+Bucle for in.
+
+El nucle for in o itera sobre todas las propiedades enumerables que esta codificado por cadenas ignorando...
+los codificados por simbolos incluidas las numericas heredadas
