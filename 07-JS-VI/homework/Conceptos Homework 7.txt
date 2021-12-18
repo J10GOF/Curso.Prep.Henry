@@ -1,0 +1,4 @@
+Funciones callback.
+
+Las funciones callback o tambien conocidas como retrollamadas es una funcion ejecutable (A) que se usa como argumento
+de otra funcion (B) de esta forma cuando se llame la funcion (B) esta ejecutara la funcion (A).

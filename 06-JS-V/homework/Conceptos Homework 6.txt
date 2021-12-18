@@ -1,0 +1,13 @@
+Prototype
+
+Prototype es una propiedad de Object, -el objeto del que se derivan todos los demás objetos-, y esta propiedad es,
+a su vez, un objeto. Por tanto, el prototipo último de un objeto es Object.prototype. 
+Este prototipo padre tiene métodos que comparten todos los objetos.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Constructor de clases.
+
+Un constructor es un elemento de una clase cuyo identificador coincide con el identificador de la clase correspondiente
+cuyo objetivo es hacer cumplir y controlar cómo se inicializa una instancia de una clase dada, porque Java no permite
+que las variables miembro de una nueva instancia permanezcan sin inicializar.

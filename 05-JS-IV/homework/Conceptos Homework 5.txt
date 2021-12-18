@@ -22,4 +22,17 @@ que pueden cambiar los valores que hemos asignado a esas propiedades.
 Bucle for in.
 
 El nucle for in o itera sobre todas las propiedades enumerables que esta codificado por cadenas ignorando...
-los codificados por simbolos incluidas las numericas heredadas
+los codificados por simbolos incluidas las numericas heredadas.
+
+------------------------------------------------------------------------------------------------------------------
+
+Notacion de puntos.
+
+cadena de caracteres alfanuméricos, incluidos el guión bajo ("_") y el signo de dólar ("$"),
+no debe comenzar con un número.
+
+Notacion por corchetes.
+
+La notación de corchetes espera que una expresión se evalúe como una cadena (o se puede forzar a una cadena),
+por lo que puede usar ¡cualquier secuencia de caracteres como nombre de propiedad. 
+No hay límites para lo que puede contener una cadena.
